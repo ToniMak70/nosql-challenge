@@ -76,6 +76,7 @@
     This assignment includes the following attchments:
       A NoSQL_setup_starter.ipynb file that contains part 1 database and jupyter notebook setup and part 2 database updates
       A NoSQL_analysis_starter.ipynb file that contains part 3 exploratory analysis
+      A Resources folder containing a json file
       A License
       A readme file  
 
